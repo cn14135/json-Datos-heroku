@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "email": "Purdy_Liza@Feest.ca",
+    "firstname": "Moses",
+    "lastname": "Armstrong",
+    "password": "0Lelia39",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/supjoey/128.jpg"
+  },
+  {
+    "id": 2,
+    "email": "Durward_Ondricka@hotmail.com",
+    "firstname": "Danial",
+    "lastname": "Dicki",
+    "password": "2Kellie20",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bobbytwoshoes/128.jpg"
+  },
+  {
+    "id": 3,
+    "email": "Alvena.Gislason@gmail.com",
+    "firstname": "Daryl",
+    "lastname": "Parisian",
+    "password": "5Eleanore90",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/supjoey/128.jpg"
+  },
+  {
+    "id": 4,
+    "email": "Larue.Schneider@Walker.name",
+    "firstname": "Dortha",
+    "lastname": "Blick",
+    "password": "5Damien43",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stevedesigner/128.jpg"
+  },
+  {
+    "id": 5,
+    "email": "Hoppe.Lea@Kreiger.net",
+    "firstname": "Lenore",
+    "lastname": "Hoeger",
+    "password": "6Selina95",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/juanmamartinez/128.jpg"
+  },
+  {
+    "email": "Aaaaaaaagdjjddj",
+    "password": "djdjdjdjfjdjdjf",
+    "country": "Dominican Republic",
+    "condition": "new",
+    "date": "2020-04-02 00:06:41",
+    "id": 6
+  },
+  {
+    "email": "el_laboratorio_record@hotmail.com",
+    "password": "fghfgdhfgh",
+    "country": "Dominican Republic",
+    "condition": "new",
+    "date": "2020-04-02 00:15:08",
+    "id": 7
+  },
+  {
+    "email": "aaaaaaaaaaaaaaaaaaaaa",
+    "password": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "country": "Dominican Republic",
+    "condition": "new",
+    "date": "2020-04-02 00:17:37",
+    "id": 8
+  },
+  {
+    "email": "carolina22542011@hotmail.com",
+    "password": "jhfghjfghjhgjghjghj",
+    "country": "Dominican Republic",
+    "condition": "new",
+    "date": "2020-04-02 00:18:07",
+    "id": 9
+  }
+]
